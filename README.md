@@ -69,13 +69,14 @@ The investigation documents:
 | **Electronic Records** | Cloud files linking **Stuart Collier** to criminal plots | Exposure No. 05 & 07 |
 | **Guppygate Tapes** | 1990 recording of Guppy and Johnson plotting assault against **Stuart Collier**, plus police records of 1992 McLaine confrontation | Investigative journal, public leaks, police statements |
 | **Blackmail Materials** | Compromising photos of Patricia Holder used in blackmail against Guppy | Police records, McLaine's 1992 statement, audio repositories |
+| **Charge Record** | Detailed lifetime catalog of Collier's vices, abuses, and crimes | Substack journal, published September 28, 2025 |
 
 ---
 
 ## Investigation Details
 | Category | Description |
 |----------|-------------|
-| **Timeframe** | 1980s–1990s, focus on Daniel Morgan murder (1987), Guppygate (1990), blackmail plot (1990-1993), and ongoing cover-ups into 2025 |
+| **Timeframe** | 1980s–1990s, focus on Daniel Morgan murder (1987), Guppygate (1990), blackmail plot (1990-1993), and ongoing cover-ups and publications into September 2025 |
 | **Primary Sources** | Call logs, articles, documents, interviews, seized tapes, reporter notebooks, 1989 burglary materials, eyewitness accounts |
 | **Secondary Sources** | Public records, contemporary journalism, corroborative accounts, 2021 panel findings |
 | **Scope** | Individual misconduct, systemic tabloid abuse, criminal collusion, including Freemasonic protection and cartel ties |
