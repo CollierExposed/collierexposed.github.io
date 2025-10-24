@@ -36,10 +36,10 @@ All findings, documents, and journal entries are released via **resilient, decen
 ## Findings & Exposures
 
 The investigation exposes a clear pattern of **sadism, coercion, and collusion** under the guise of journalism.  
-Highlights from the Exposures series include:
+Highlights from the *Exposures* series include:
 
-- **Guppygate** — The fraudulent scandal engineered and exploited by **Stuart Collier**, whose blackmail tactics triggered the now-infamous 1990 call between *Darius Guppy* and *Boris Johnson*.  
-- **The Daniel Morgan Murder** — Evidence positioning **Stuart Collier** as a liaison and fixer between corrupt police, private investigators, and Murdoch editors in the events leading to Morgan’s brutal 1987 killing.  
+- **Guppygate (1990)** — The fraudulent scandal engineered and exploited by **Stuart Collier**, whose blackmail tactics triggered the infamous call between *Darius Guppy* and *Boris Johnson*.  
+- **The Daniel Morgan Murder (1987)** — Evidence positioning **Stuart Collier** as a liaison and fixer between corrupt police, private investigators, and Murdoch editors in the events leading to Morgan’s brutal killing.  
 - **Media Corruption Networks** — Collier’s sustained collaboration with *Alex Marunchak*, *Sid Fillery*, *Jonathan Rees*, and *Clive Goodman*, showing systemic abuse of information pipelines, surveillance, and suppression of criminal evidence.  
 
 Each exposure contributes to a mosaic of corruption — a record that the Murdoch press sought to conceal for decades.
@@ -48,7 +48,7 @@ Each exposure contributes to a mosaic of corruption — a record that the Murdoc
 
 ## Preservation & Integrity
 
-**Collier Exposed** operates on the principles of *transparency, verification, and permanence*.  
+**Collier Exposed** operates on the principles of *transparency, verification, and permanence.*  
 
 - All records are verified against primary sources: call logs, court records, interviews, and contemporaneous media.  
 - The investigation employs *resilient archiving* using mirrored repositories and blockchain-backed distribution.  
@@ -60,32 +60,6 @@ Each exposure contributes to a mosaic of corruption — a record that the Murdoc
 
 ## Contact
 
-For legitimate inquiries or secure correspondence, please use our verified public key.
+For secure correspondence or to submit verifiable evidence, use encrypted communication.  
+Below is our **PGP public key** for encrypted contact.
 
-**PGP Public Key:** [View Key](https://odysee.com/@CollierExposed:f/Contact-Us:2)
-
-To submit leads or documentation, see our contact instructions on the Odysee repository page.
-
----
-
-## Support
-
-### **Anonymous Support via Monero (XMR)**
-Your contributions sustain this independent investigation and help maintain open access archives.
-
-To support anonymously, send Monero (XMR) to our verified wallet address displayed on:  
-👉 [Official Support Page](https://odysee.com/@CollierExposed:f/Support:1)
-
-All proceeds fund investigative costs, hosting, secure communications, and archival infrastructure.
-
----
-
-### **About**
-
-**Collier Exposed** is an open investigation dedicated to unveiling the criminal and sadistic legacy of *Stuart Collier*.  
-Through meticulous documentation, this project seeks to expose the ties between Murdoch’s press, organised crime, and state corruption — and to preserve the truth where official channels have failed.
-
----
-
-**© Collier Exposed**  
-*An open archive. A public reckoning. A record that will not be buried.*
