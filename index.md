@@ -90,11 +90,6 @@ To preserve privacy, our principal support channel is **Monero (XMR)** — an un
 
 49UsoqVWXWJaddJECG47CtajbvPY5uhbc8FkPTCNPQhRWNZCcAh6cpZVDf6bJt4pFNaFLu352oAVwhPR7eQUTCBsMo8ukvp
 
-
-![Monero QR](https://thumbs.odycdn.com/22e0781687e22868518cd80584145b69.webp)
-
-If you prefer to contribute using another cryptocurrency or fiat currency, you can convert it anonymously through services such as [Swapzone](https://swapzone.io/buy/gbp/xmr) before sending.
-
 > All contributions go exclusively toward investigative research, secure hosting, archival preservation, and operational tools for the Collier Exposed project.
 
 ---
@@ -106,5 +101,5 @@ Through meticulous documentation, it seeks to expose the nexus between Murdoch�
 
 ---
 
-**© Collier Exposed**  
+**Collier Exposed**  
 *An open archive. A public reckoning. A record that will not be buried.*
