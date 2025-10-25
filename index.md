@@ -90,8 +90,6 @@ To preserve privacy, our principal support channel is **Monero (XMR)** — an un
 
 [49Uso...8ukvp](https://xmrchain.net/search?value=49UsoqVWXWJaddJECG47CtajbvPY5uhbc8FkPTCNPQhRWNZCcAh6cpZVDf6bJt4pFNaFLu352oAVwhPR7eQUTCBsMo8ukvp)
 
-49UsoqVWXWJaddJECG47CtajbvPY5uhbc8FkPTCNPQhRWNZCcAh6cpZVDf6bJt4pFNaFLu352oAVwhPR7eQUTCBsMo8ukvp
-
 > All contributions go exclusively toward investigative research, secure hosting, archival preservation, and operational tools for the Collier Exposed project.
 
 ---
