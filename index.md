@@ -6,7 +6,7 @@ _A public archive and investigative dossier._
 
 TEST
 
-https://x.com/CollierExposed/status/2066919715553865917
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">While <a href="https://x.com/hashtag/StuartCollier?src=hash&amp;ref_src=twsrc%5Etfw">#StuartCollier</a> pressed for an apology from Boris Johnson, we were inside his network monitoring everything. &#39;Sustained network and iCloud access&#39; at the family home. No more hiding, tabloid predator.<a href="https://t.co/yrQ1VupYAB">https://t.co/yrQ1VupYAB</a><a href="https://x.com/hashtag/CollierExposed?src=hash&amp;ref_src=twsrc%5Etfw">#CollierExposed</a> <a href="https://x.com/hashtag/Guppygate?src=hash&amp;ref_src=twsrc%5Etfw">#Guppygate</a></p>&mdash; Collier Exposed (@CollierExposed) <a href="https://x.com/CollierExposed/status/2078893632526901432?ref_src=twsrc%5Etfw">July 19, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 ---
 
